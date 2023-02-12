@@ -9,7 +9,7 @@ public class Person implements Comparable<Person> {
         this.age = age;
     }
 
-    public String detSurname() {
+    public String getSurname() {
         return surname;
     }
 
